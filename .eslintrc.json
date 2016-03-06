@@ -1,0 +1,21 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 6
+    },
+    "env": {
+        "node": true
+    },
+    "rules": {
+        "semi": 2,
+        "quotes": [2, "single"],
+        "eqeqeq": 2,
+        "brace-style": 2,
+        "indent": [2, 4],
+        "object-curly-spacing": [2, "always"],
+        "no-trailing-spaces": 2,
+        "no-multiple-empty-lines": 2,
+        "space-before-function-paren": 2,
+        "keyword-spacing": 2,
+        "newline-after-var": 2
+    }
+}
